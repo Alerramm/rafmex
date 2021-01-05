@@ -17,7 +17,7 @@
     "@types/react-router": "^5.1.1",
     "@types/react-router-dom": "^5.1.0",
     "animsition": "^4.0.2",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "bootstrap": "^4.4.1",
     "daterangepicker": "^3.0.5",
     "font-awesome": "^4.7.0",
